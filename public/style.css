@@ -1,0 +1,21 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+}
+
+img{
+  height: 200px;
+}
+
+.container .jumbotron {
+    padding-right: 60px;
+    padding-left: 60px;
+    color: gold;
+    background-image: url(img/city.jpg);
+    background-size:cover;
+    background-position: center;
+}
+
+body {
+    background-color: darkOrange;
+}
